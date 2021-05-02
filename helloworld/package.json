@@ -1,7 +1,7 @@
 {
 	"name": "helloworld",
 	"displayName": "HelloWorld",
-	"description": "LEAVE BLANK",
+	"description": "Cat Coding",
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.55.0"
